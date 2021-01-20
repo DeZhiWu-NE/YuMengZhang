@@ -4,4 +4,5 @@ int main()
 {
   cout<<"hello word";
   cout<<"hello Asia";
+  cout<<"hello china";
 }
